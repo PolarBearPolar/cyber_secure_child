@@ -16,6 +16,6 @@ flutter doctor
 ```
 flutter pub get
 ```
-- Choose the preffered device for running the application and run it.
+- Choose the preffered device for running the application and run it (alternatively, you can install the APK release file directly on your phone and test the application there).
 
 
